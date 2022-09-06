@@ -13,7 +13,7 @@
 
 
 ### About myself
-I’m a professional archivist and historian, who is also interested in computer sciences. I want to become a front-end developer, getting acquainted with creation of different web-sites.	I’m attentive, responsible, well-organized person, who can work and communicate with people effectively. As for me, I like solving different problems and developing my abilities. Currently I’m working hard to make programming my future profession. 
+I’m a professional archivist and historian, who is also interested in computer sciences. I want to become a front-end developer, getting acquainted with creation of different web-sites.	I’m attentive, responsible, well-organized person, who can work and communicate with people effectively. As for me, I like solving different problems and developing my abilities. Currently I’m working hard to make programming my future profession.
 
 
 ### Skills
